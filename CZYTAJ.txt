@@ -1,0 +1,3 @@
+Audyt SZBI - wersja instalowalna, dziala bez internetu.
+Pliki: index.html, manifest.webmanifest, sw.js, icon-192.png, icon-512.png.
+Wgraj caly folder na dowolny hosting HTTPS (np. GitHub Pages, Netlify, Cloudflare Pages), otworz adres RAZ z internetem na tablecie i wybierz "Zainstaluj aplikacje" / "Dodaj do ekranu poczatkowego". Potem dziala w trybie samolotowym.
